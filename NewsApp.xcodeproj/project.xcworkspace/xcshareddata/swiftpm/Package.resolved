@@ -1,0 +1,24 @@
+{
+  "originHash" : "0e93244a069dcc59ff7f8bf5e8ed44d715df06de6253de843b6e1d9a4a783741",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "e6749919f9761d573d37a7d7e78b1b854c191d7f",
+        "version" : "8.1.3"
+      }
+    },
+    {
+      "identity" : "routing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JamesSedlacek/Routing",
+      "state" : {
+        "revision" : "84e3729c7771ba631cd4966cab3fd88054fc5f53",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
