@@ -14,7 +14,7 @@ This iOS app, built with SwiftUI, fetches news articles from the News API, allow
 
 ### Light Theme
 
-<img src="https://github.com/user-attachments/assets/bf6398e5-9e0f-46e9-94a8-8ea9afb8c432" width="200">
+<img src="https://github.com/user-attachments/assets/d9635230-e888-4bca-9b77-c8823f9be5a7" width="200">
 
 <img src="https://github.com/user-attachments/assets/18810466-93f3-454a-9bd5-33a16ca1c627" width="200">
 
@@ -33,6 +33,8 @@ This iOS app, built with SwiftUI, fetches news articles from the News API, allow
 <img src="https://github.com/user-attachments/assets/eac8c523-5fbf-46ab-ba5c-1b2e5c74717b" width="200">
 
 ### Dark Theme
+
+<img src="https://github.com/user-attachments/assets/bf6398e5-9e0f-46e9-94a8-8ea9afb8c432" width="200">
 
 <img src="https://github.com/user-attachments/assets/72aa4dcc-2e70-4a48-b440-2b4f208e0135" width="200">
 
