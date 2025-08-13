@@ -11,6 +11,7 @@ This iOS app, built with SwiftUI, fetches news articles from the News API, allow
 - SwiftData Framework
 - Routing Package (https://github.com/JamesSedlacek/Routing)
 - Kingfisher Package (https://github.com/onevcat/Kingfisher)
+- News API (https://newsapi.org)
 
 ## Images
 
