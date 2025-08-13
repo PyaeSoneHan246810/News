@@ -1,5 +1,7 @@
 # News iOS App
 
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/96a824ce-1356-4b81-a2ea-e9fd21d5cc53" />
+
 This iOS app, built with SwiftUI, fetches news articles from the News API, allowing users to browse, search for specific topics, and bookmark articles for easy access.
 
 ## Used Technologies
